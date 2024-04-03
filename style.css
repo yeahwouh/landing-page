@@ -6,10 +6,12 @@ body {
     font-family: "Arial Black", sans-serif;
     align-items: center;
     justify-content: space-between;
+    margin: 0;
+    padding: 0;
 }
 
 .body {
-    margin: 0px;
+    width: 100%
 }
 
 .header {
